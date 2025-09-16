@@ -19,7 +19,7 @@
 					<v8:content>Список Перечисляемой Зарплаты</v8:content>
 				</v8:item>
 			</Synonym>
-			<Comment/>
+			<Comment>Тестовая</Comment>
 			<DefaultForm>ExternalDataProcessor.СписокПеречисляемойЗарплаты.Form.ФормаДляТестирования</DefaultForm>
 			<AuxiliaryForm/>
 		</Properties>
